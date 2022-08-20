@@ -4,7 +4,7 @@ public class Multiplication {
     public void printMultiplied(int multiplyByAndToInclusive) {
      int i = 1;
      int x = 0;
-     int multiplyByAndToInclusive = 5;
+     
     
      
      if (multiplyByAndToInclusive > 0){
